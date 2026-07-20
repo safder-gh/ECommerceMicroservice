@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJaSL0IzXX4=",
+  "dgSpecHash": "YaQDxcQ5vws=",
   "success": true,
-  "projectFilePath": "E:\\safder_ghauri\\CleanArchitecture\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+  "projectFilePath": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muneeb\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Muneeb\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

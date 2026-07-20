@@ -1,6 +1,7 @@
 ﻿using ecommerce.SharedLibrary.Logs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Text.Json;
 
 namespace ecommerce.SharedLibrary.Middleware;
@@ -9,12 +10,16 @@ public  class GlobalException(RequestDelegate next)
 {
 public async Task InvokeAsync(HttpContext httpContext)
     {
-        var statusCode = httpContext.Response.StatusCode;
-
-        string title;
-        string message;
         try
         {
+            await next(httpContext);
+        }
+        catch (Exception e)
+        {
+            var statusCode = httpContext.Response.StatusCode;
+
+            string title;
+            string message;
             switch (statusCode)
             {
                 case StatusCodes.Status200OK:
@@ -119,8 +124,7 @@ public async Task InvokeAsync(HttpContext httpContext)
             }
 
             await ModifyHeader(httpContext, title, message, statusCode);
-        }
-        catch (Exception e) {
+
             LogException.LogExceptions(e);
         }
     }

@@ -1,6 +1,35 @@
-@ProductApi.Presentation_HostAddress = http://localhost:5210
+@ProductApi.Presentation_HostAddress = http://localhost:5001
 
-GET {{ProductApi.Presentation_HostAddress}}/weatherforecast/
-Accept: application/json
+DELETE {{ProductApi.Presentation_HostAddress}}/api/product
+
+###
+
+GET {{ProductApi.Presentation_HostAddress}}/api/product
+
+###
+
+POST {{ProductApi.Presentation_HostAddress}}/api/product
+Content-Type: application/json
+
+{
+  //ProductDTO
+}
+
+###
+
+PUT {{ProductApi.Presentation_HostAddress}}/api/product
+Content-Type: application/json
+
+{
+  //ProductDTO
+}
+
+###
+
+GET {{ProductApi.Presentation_HostAddress}}/api/product/{id:guid}
+
+###
+
+GET {{ProductApi.Presentation_HostAddress}}/api/product
 
 ###

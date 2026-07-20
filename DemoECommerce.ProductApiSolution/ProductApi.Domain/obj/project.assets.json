@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\safder_ghauri\\CleanArchitecture\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+      "projectUniqueName": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
       "projectName": "ProductApi.Domain",
-      "projectPath": "E:\\safder_ghauri\\CleanArchitecture\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+      "projectPath": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
       "packagesPath": "C:\\Users\\Muneeb\\.nuget\\packages\\",
-      "outputPath": "E:\\safder_ghauri\\CleanArchitecture\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
+      "outputPath": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
