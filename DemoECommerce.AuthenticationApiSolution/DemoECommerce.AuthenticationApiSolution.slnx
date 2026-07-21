@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="E:/safder_ghauri/eCommerceMicroService/DemoECommerce.AuthenticationApiSolution/AuthenticationApi.Application/AuthenticationApi.Application.csproj" />
+  <Project Path="E:/safder_ghauri/eCommerceMicroService/DemoECommerce.AuthenticationApiSolution/AuthenticationApi.Domain/AuthenticationApi.Domain.csproj" />
+  <Project Path="E:/safder_ghauri/eCommerceMicroService/DemoECommerce.AuthenticationApiSolution/AuthenticationApi.Infrastructure/AuthenticationApi.Infrastructure.csproj" />
+  <Project Path="E:/safder_ghauri/eCommerceMicroService/DemoECommerce.AuthenticationApiSolution/AuthenticationApi.Presentation/AuthenticationApi.Presentation.csproj" />
+  <Project Path="E:/safder_ghauri/eCommerceMicroService/DemoECommerce.Shared.LibrarySolution/ecommerce.SharedLibrary/ecommerce.SharedLibrary.csproj" />
+</Solution>

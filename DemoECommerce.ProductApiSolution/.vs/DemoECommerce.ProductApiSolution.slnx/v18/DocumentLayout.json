@@ -3,81 +3,12 @@
   "WorkspaceRootPath": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AC28EE-D026-D97B-14DB-C816BBB62C83}|..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\ecommerce.SharedLibrary.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.shared.librarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AC28EE-D026-D97B-14DB-C816BBB62C83}|..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\ecommerce.SharedLibrary.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.shared.librarysolution\\ecommerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AC28EE-D026-D97B-14DB-C816BBB62C83}|..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\ecommerce.SharedLibrary.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.shared.librarysolution\\ecommerce.sharedlibrary\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.domain\\entities\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,257 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SharedServiceContainer.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeDocumentMoniker": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeToolTip": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T11:07:40.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlobalException.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Middleware\\GlobalException.cs",
-              "RelativeDocumentMoniker": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Middleware\\GlobalException.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Middleware\\GlobalException.cs",
-              "RelativeToolTip": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Middleware\\GlobalException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T10:38:57.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-20T10:29:00.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.Development.json",
               "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
               "RelativeToolTip": "ProductApi.Presentation\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-20T10:19:47.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
-              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-20T10:19:41.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260720101717_initial.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\Migrations\\20260720101717_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T10:17:18.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T09:06:05.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
-              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T09:01:01.024Z",
+              "WhenOpened": "2026-07-21T10:03:19.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceContainer.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T07:25:35.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductDBContext.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T05:49:01.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGMAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T05:08:59.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "..\\DemoECommerce.Shared.LibrarySolution\\ecommerce.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T05:05:31.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T05:03:46.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductConversion.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:32:02.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:33:24.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductApi.Infrastructure.csproj",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
-              "RelativeToolTip": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
+              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-20T07:24:21.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaseDTO.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\BaseDTO.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\BaseDTO.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\BaseDTO.cs",
-              "RelativeToolTip": "ProductApi.Application\\DTOs\\BaseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T19:07:33.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IPrice.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\IPrice.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\IPrice.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\IPrice.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\IPrice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:20:10.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:14:38.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Product.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:14:10.732Z"
+              "WhenOpened": "2026-07-20T17:31:25.224Z"
             }
           ]
         }
