@@ -5,7 +5,7 @@ namespace AuthenticationApi.Application.Interfaces;
 
 public  interface IUserRepository
 {
-    Task<Response> Register(AppUserDTO userDTO);
+    Task<Response> Register(CreateUserDTO userDTO);
     Task<Response> Login(LoginDTO loginDTO);
-    Task<AppUserDTO> GetUser(Guid Id);
+    Task<AppUserDTO?> GetUser(Guid Id);
 }

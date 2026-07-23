@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|e:\\safder_ghauri\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.Development.json",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
-              "RelativeToolTip": "ProductApi.Presentation\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-21T10:03:19.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
-              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
-              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\safder_ghauri\\eCommerceMicroService\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T17:31:25.224Z"
+              "WhenOpened": "2026-07-23T03:47:46.777Z",
+              "EditorCaption": ""
             }
           ]
         }

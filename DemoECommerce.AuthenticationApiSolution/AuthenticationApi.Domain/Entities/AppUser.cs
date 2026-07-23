@@ -12,6 +12,7 @@ public class AppUser:BaseEntity
     public  string? CellNumber { get; set; }
     public string? Address { get; set; }
     public required string Email { get; set; }
-    public required string UserName { get; set; }
+    public required string DisplayName { get; set; }
+    public  string? Password { get; set; }
     public string? Role { get; set; }
 }
