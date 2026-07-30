@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace AuthenticationApi.Application.DTOs;
 
 public record CreateUserDTO(
-    Guid Id,
     [Required] string Name,
     [Required] string CellNumber,
     [Required] string Address,

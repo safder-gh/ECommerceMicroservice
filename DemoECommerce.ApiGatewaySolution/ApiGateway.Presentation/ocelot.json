@@ -20,10 +20,20 @@
       "DownstreamPathTemplate": "/api/product",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
-        { "Host": "127.0.0.1" , "Port": 5001 }
+        {
+          "Host": "127.0.0.1",
+          "Port": 5001
+        }
       ],
       "UpstreamPathTemplate": "/api/product",
       "UpstreamHttpMethod": [ "GET" ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "60s",
+        "Limit": 1,
+        "PeriodTimespan": 10
+      },
       "FileCacheOptions": {
         "TtlSeconds": 60,
         "Region": "default",
@@ -109,7 +119,8 @@
   ],
   "GlobalConfiguration": {
     "BaseUrl": "https://127.0.0.1:5003",
-    "RateLimitOption": {
+    "RateLimitOptions": {
+      "ClientIdHeader": "ClientId",
       "QuotaExceededgMessage": "Your are overloaded me."
     }
   }

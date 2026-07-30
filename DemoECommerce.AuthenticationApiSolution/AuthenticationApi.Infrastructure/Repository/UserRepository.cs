@@ -15,17 +15,17 @@ namespace AuthenticationApi.Infrastructure.Repository;
 
 public class UserRepository(AuthenticationDbContext context,IConfiguration configuration) : IUserRepository
 {
-    private async Task<CreateUserDTO?> GetUserByEmail(string Email)
+    private async Task<AppUserDTO?> GetUserByEmail(string Email)
     {
         var entity = await context.AppUsers.FirstOrDefaultAsync(u=>u.Email == Email);
-        return entity is null ? null : new CreateUserDTO(entity.Id,
+        return entity is null ? null : new AppUserDTO(entity.Id,
             entity.DisplayName,
             entity.CellNumber ?? string.Empty,
             entity.Address ?? string.Empty,
             entity.Email,
             entity.DisplayName,
-            entity.Role ?? string.Empty,
-            entity.Password ?? string.Empty
+            entity.Password ?? string.Empty,
+            entity.Role ?? string.Empty
             );
     }
     public async Task<AppUserDTO?> GetUser(Guid Id)
@@ -37,6 +37,7 @@ public class UserRepository(AuthenticationDbContext context,IConfiguration confi
             entity.Address?? string.Empty,
             entity.Email,
             entity.DisplayName,
+            entity.Password ?? string.Empty,
             entity.Role ?? string.Empty
             );
     }
@@ -44,13 +45,13 @@ public class UserRepository(AuthenticationDbContext context,IConfiguration confi
     public async Task<Response> Login(LoginDTO loginDTO)
     {
         var existing = await GetUserByEmail(loginDTO.Email);
-        if (existing is not null) return new Response(false, "Invalid email or password");
+        if (existing is null) return new Response(false, "Invalid email or password");
         var verify = BCrypt.Net.BCrypt.Verify(loginDTO.Password, existing!.Password);
         if (!verify) return new Response(false, "Invalid email or password");
         return new Response(true, GenerateToken(existing));
     }
 
-    private string GenerateToken(CreateUserDTO existing)
+    private string GenerateToken(AppUserDTO existing)
     {
         var Key = Encoding.UTF8.GetBytes(configuration["Authentication:Key"]!);
         var SecurityKey = new SymmetricSecurityKey(Key);
@@ -75,7 +76,7 @@ public class UserRepository(AuthenticationDbContext context,IConfiguration confi
 
     public async Task<Response> Register(CreateUserDTO userDTO)
     {
-        var existing = GetUserByEmail(userDTO.Email);
+        var existing = await GetUserByEmail(userDTO.Email);
         if (existing is not null) return new Response(false, "Email already exists.");
         await context.AppUsers.AddAsync(new AppUser
         {

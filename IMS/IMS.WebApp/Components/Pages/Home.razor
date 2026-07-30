@@ -1,0 +1,42 @@
+﻿@page "/"
+@using IMS.CoreBusiness
+@using IMS.UseCase.Inventories.Interfaces
+
+@inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase;
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+    @if(inventories is not null && inventories.Count > 0){
+            <table class="table">
+                <thead>
+                    <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var inventory in inventories)
+                    {
+                        <tr>
+                        <td>@inventory.Id</td>
+                        <td>@inventory.Name</td>
+                        <td>@inventory.Price</td>
+                        <td>@inventory.Quantity</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+@code{
+    private List<Inventory> inventories;
+    protected override async Task OnInitializedAsync()
+        {
+        inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
+        }
+    }
+

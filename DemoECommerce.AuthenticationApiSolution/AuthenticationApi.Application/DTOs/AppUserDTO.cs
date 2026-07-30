@@ -9,4 +9,5 @@ public record AppUserDTO(
     [Required] string Address,
     [Required, EmailAddress] string Email,
     [Required] string DisplayName,
+    [Required] string Password,
     [Required] string Role);
