@@ -1,0 +1,14 @@
+﻿@using IMS.CoreBusiness
+@if (Inventory is not null)
+{
+        <tr>
+        <td>@Inventory.Name</td>
+        <td>@Inventory.Price</td>
+        <td>@Inventory.Quantity</td>
+        <td><button class="btn btn-primary">Edit</button></td>
+        </tr>
+    }
+@code {
+    [Parameter]
+    public Inventory? Inventory { get; set; }
+}

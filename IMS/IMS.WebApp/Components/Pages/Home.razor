@@ -33,7 +33,7 @@ Welcome to your new app.
             </table>
         }
 @code{
-    private List<Inventory> inventories;
+    private List<Inventory>? inventories;
     protected override async Task OnInitializedAsync()
         {
         inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
